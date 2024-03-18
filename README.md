@@ -1,1 +1,1 @@
-yolov8 custom training person
+yolov8 custom training person class
