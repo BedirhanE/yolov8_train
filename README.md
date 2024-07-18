@@ -1,4 +1,5 @@
-#Yolo Model Performans Artırma İşlemleri
+
+# Yolo Model Performans Artırma İşlemleri
 
 
 ## Model Eğitimi ve mAP Değerini Artırma
