@@ -1,7 +1,7 @@
+#Yolo Model Performans Artırma İşlemleri
 
 
-
-# Model Eğitimi ve mAP Değerini Artırma
+## Model Eğitimi ve mAP Değerini Artırma
 Bu projede modelimizin ortalama doğruluk puanını (mean Average Precision - mAP) artırmak için bir dizi yöntem kullanıldı. İşte bu yöntemler:
 
 ## Veri Artırma (Data Augmentation)
